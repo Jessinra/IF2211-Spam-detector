@@ -5,12 +5,12 @@ import re
 def string_match_kmp(text, query):
     """
     String matching using KMP algorithm
-    :param text:
-    :type text:
-    :param query:
-    :type query:
-    :return:
-    :rtype:
+    :param text: text to scan
+    :type text: string
+    :param query: spam keyword
+    :type query: string
+    :return: list of tuple (start_idx, end_idx) of found matching spam keyword
+    :rtype: list
     """
 
     def init_KMP_table(query):
@@ -82,12 +82,12 @@ def string_match_kmp(text, query):
 def string_match_bm(text, query):
     """
     String matching with Boyer Moore algorithm
-    :param text:
-    :type text:
-    :param query:
-    :type query:
-    :return:
-    :rtype:
+    :param text: text to scan
+    :type text: string
+    :param query: spam keyword
+    :type query: string
+    :return: list of tuple (start_idx, end_idx) of found matching spam keyword
+    :rtype: list
     """
 
     def init_BM_table(query):
@@ -154,6 +154,15 @@ def string_match_bm(text, query):
 
 
 def string_match_regex(text, query):
+    """
+    String matching using regex
+    :param text: text to scan
+    :type text: string
+    :param query: spam keyword
+    :type query: string
+    :return: list of tuple (start_idx, end_idx) of found matching spam keyword
+    :rtype: list
+    """
 
     result_table = []
     results = re.finditer(query, text, flags=re.IGNORECASE)
@@ -164,6 +173,17 @@ def string_match_regex(text, query):
 
 
 def check_text(text, query, method):
+    """
+    Invoke one of three different type of string matching
+    :param text: text to scan
+    :type text: string
+    :param query: spam keyword
+    :type query: string
+    :param method: method of string matching
+    :type method: string
+    :return: result of string matching
+    :rtype: list
+    """
 
     if "kmp" in method:
         return string_match_kmp(text, query)
@@ -176,6 +196,13 @@ def check_text(text, query, method):
 
 
 def parse_json(filename):
+    """
+    parse json file
+    :param filename:
+    :type filename: string
+    :return: list of status (json object)
+    :rtype: json object
+    """
 
     json_data = json.load(open(filename, 'r'))
     statuses = json_data['statuses']
@@ -184,6 +211,17 @@ def parse_json(filename):
 
 
 def check_is_spam(statuses, spam_keywords, method):
+    """
+    check all status in statuses, if satisfy any spam_keywords, using specified method
+    :param statuses: json represent all statuses from API
+    :type statuses: json object
+    :param spam_keywords: list of keyword marked as spam
+    :type spam_keywords: list
+    :param method: specified method to use for searching
+    :type method: string
+    :return: scanned statuses (added another attribute 'spam_occurrence'
+    :rtype: json object
+    """
 
     # check for each status
     for status in statuses:
@@ -220,7 +258,7 @@ if __name__ == '__main__':
     #         start_idx, end_idx = occur
     #         print(status['text'][start_idx:end_idx])
 
-    text = "the rain in spain staysd mainly rain rain on the plain"
+    text = "the rain in spain stayed mainly rain rain on the plain"
     query = "rain"
 
     result = string_match_kmp(text, query)
