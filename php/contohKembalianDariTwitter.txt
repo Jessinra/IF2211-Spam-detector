@@ -1,0 +1,2141 @@
+
+
+{
+  "statuses": [
+    {
+      "created_at": "Thu Apr 19 14:07:56 +0000 2018",
+      "id": "986969653095354369",
+      "id_str": "986969653095354369",
+      "text": "Meninjau pameran Indonesia International Motor Show 2018 di JI-Expo, Kemayoran, Jakarta. Majulah industri otomotif\u2026 https:\/\/t.co\/pNU6QZyFC0",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/pNU6QZyFC0",
+            "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/986969653095354369",
+            "display_url": "twitter.com\/i\/web\/status\/9\u2026",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "popular"
+      },
+      "source": "Twitter for Android<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 366987179,
+        "id_str": "366987179",
+        "name": "Joko Widodo",
+        "screen_name": "jokowi",
+        "location": "Jakarta",
+        "description": "Akun resmi Joko Widodo, Presiden Republik Indonesia",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 10088964,
+        "friends_count": 59,
+        "listed_count": 3692,
+        "created_at": "Sat Sep 03 05:21:21 +0000 2011",
+        "favourites_count": 0,
+        "utc_offset": 25200,
+        "time_zone": "Jakarta",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 898,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "5B5C5A",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/953822043211886592\/IUEJdPg9_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/953822043211886592\/IUEJdPg9_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/366987179\/1516243874",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1264,
+      "favorite_count": 4660,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in",
+      "spam_occurrence": [
+        
+      ]
+    },
+    {
+      "created_at": "Thu Apr 19 04:14:54 +0000 2018",
+      "id": "986820410283929600",
+      "id_str": "986820410283929600",
+      "text": "\u201cMana bukti kerja Pak Jokowi?\u201d\n\nSilahkan.. \nhttps:\/\/t.co\/NAQPDGY4MC",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/NAQPDGY4MC",
+            "expanded_url": "https:\/\/finance.detik.com\/berita-ekonomi-bisnis\/d-3976615\/30-proyek-strategis-jokowi-rp-948-triliun-rampung",
+            "display_url": "finance.detik.com\/berita-ekonomi\u2026",
+            "indices": [
+              44,
+              67
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "popular"
+      },
+      "source": "Twitter for iPhone<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": "2786280835",
+        "id_str": "2786280835",
+        "name": "Tsamara Amany Alatas",
+        "screen_name": "TsamaraDKI",
+        "location": "DKI Jakarta, Indonesia.",
+        "description": "Ketua DPP @psi_id | Caleg DPR RI Dapil DKI II (Jakarta Selatan, Jakarta Pusat, dan Luar Negeri) | @BeraniPeduli",
+        "url": "https:\/\/t.co\/AQOAeZgsqY",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/AQOAeZgsqY",
+                "expanded_url": "http:\/\/Instagram.com\/tsamaradki",
+                "display_url": "Instagram.com\/tsamaradki",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 85544,
+        "friends_count": 952,
+        "listed_count": 107,
+        "created_at": "Tue Sep 02 16:09:04 +0000 2014",
+        "favourites_count": 2057,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 26412,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/967307889206468608\/ZahAPaTi_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/967307889206468608\/ZahAPaTi_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2786280835\/1519459148",
+        "profile_link_color": "7FDBB6",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 793,
+      "favorite_count": 1139,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in",
+      "spam_occurrence": [
+        
+      ]
+    },
+    {
+      "created_at": "Wed Apr 18 16:00:01 +0000 2018",
+      "id": "986635470565093376",
+      "id_str": "986635470565093376",
+      "text": "Banyak Proyek Infrastruktur Runtuh, Jokowi Pura-Pura Tidak Tahu #KlikRMOL #jokokwi https:\/\/t.co\/YQF2w6ZTll",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "KlikRMOL",
+            "indices": [
+              65,
+              74
+            ]
+          },
+          {
+            "text": "jokokwi",
+            "indices": [
+              76,
+              84
+            ]
+          }
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/YQF2w6ZTll",
+            "expanded_url": "http:\/\/nusantara.rmol.co\/read\/2018\/04\/18\/336013\/Banyak-Proyek-Infrastruktur-Runtuh,--Jokowi-Pura-Pura-Tidak-Tahu-",
+            "display_url": "nusantara.rmol.co\/read\/2018\/04\/1\u2026",
+            "indices": [
+              85,
+              108
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "popular"
+      },
+      "source": "RMOL<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 990237626,
+        "id_str": "990237626",
+        "name": "RMOL.CO",
+        "screen_name": "rmolco",
+        "location": "Indonesia",
+        "description": "Akun resmi Kantor Berita Politik Rakyat Merdeka Online (https:\/\/t.co\/LrRzLR5ueO), didedikasikan untuk Indonesia Raya.",
+        "url": "https:\/\/t.co\/nAUyovotPu",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/nAUyovotPu",
+                "expanded_url": "http:\/\/www.rmol.co",
+                "display_url": "rmol.co",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/LrRzLR5ueO",
+                "expanded_url": "http:\/\/RMOL.CO",
+                "display_url": "RMOL.CO",
+                "indices": [
+                  56,
+                  79
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 29569,
+        "friends_count": 297,
+        "listed_count": 112,
+        "created_at": "Wed Dec 05 05:14:05 +0000 2012",
+        "favourites_count": 150,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 245915,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3031732694\/342a09b0ae21810850ac02425e95c9ce_normal.jpeg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3031732694\/342a09b0ae21810850ac02425e95c9ce_normal.jpeg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/990237626\/1500554057",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 444,
+      "favorite_count": 435,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in",
+      "spam_occurrence": [
+        
+      ]
+    },
+    {
+      "created_at": "Thu Apr 19 03:40:48 +0000 2018",
+      "id": "986811828452798466",
+      "id_str": "986811828452798466",
+      "text": "Jokowi Istimewakan Pekerja Asing, Fadli Zon Naik Pitam @Gerindra https:\/\/t.co\/0Byv5p1STo",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "Gerindra",
+            "name": "Partai Gerindra",
+            "id": 397673651,
+            "id_str": "397673651",
+            "indices": [
+              55,
+              64
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/0Byv5p1STo",
+            "expanded_url": "https:\/\/m.cnnindonesia.com\/nasional\/20180419085318-32-291904\/jokowi-istimewakan-pekerja-asing-fadli-zon-naik-pitam",
+            "display_url": "m.cnnindonesia.com\/nasional\/20180\u2026",
+            "indices": [
+              66,
+              89
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "popular"
+      },
+      "source": "Twitter for iPhone<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 79139422,
+        "id_str": "79139422",
+        "name": "Fadli Zon",
+        "screen_name": "fadlizon",
+        "location": "Indonesia",
+        "description": "Wakil Ketua @DPR_RI \u25aa Presiden @GOPAC_ENG \u25aa Wakil Ketua Umum @Gerindra \u25aa Ketua Umum @HKTI \u25aa Founder @FadliZonLibrary \u25aaKetua Umum SNKI \u25aaKetua Umum IKM",
+        "url": "https:\/\/t.co\/SaXgiK0nQv",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/SaXgiK0nQv",
+                "expanded_url": "http:\/\/www.fadlizon.com",
+                "display_url": "fadlizon.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 891983,
+        "friends_count": 905,
+        "listed_count": 427,
+        "created_at": "Fri Oct 02 09:29:45 +0000 2009",
+        "favourites_count": 2570,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 31760,
+        "lang": "id",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "D4DF8A",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/676375162\/3245c0335836ef88490bbf79a0979782.jpeg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/676375162\/3245c0335836ef88490bbf79a0979782.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/982794894753185792\/SsGDsVJ5_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/982794894753185792\/SsGDsVJ5_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/79139422\/1498124248",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "CC0000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 286,
+      "favorite_count": 795,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in",
+      "spam_occurrence": [
+        
+      ]
+    },
+    {
+      "created_at": "Thu Apr 19 11:40:29 +0000 2018",
+      "id": "986932545584480258",
+      "id_str": "986932545584480258",
+      "text": "Cak Imin: Ada yang Salah dari Revolusi Mental Jokowi https:\/\/t.co\/wJzXIYD919",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/wJzXIYD919",
+            "expanded_url": "http:\/\/dlvr.it\/QQ3sCY",
+            "display_url": "dlvr.it\/QQ3sCY",
+            "indices": [
+              53,
+              76
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "popular"
+      },
+      "source": "dlvr.it<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 41730943,
+        "id_str": "41730943",
+        "name": "VIVAcoid",
+        "screen_name": "VIVAcoid",
+        "location": "Jakarta, Indonesia",
+        "description": "Akun Twitter resmi portal https:\/\/t.co\/JNYbfdcHaU",
+        "url": "https:\/\/t.co\/vnAw8SFPGO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/vnAw8SFPGO",
+                "expanded_url": "http:\/\/www.viva.co.id",
+                "display_url": "viva.co.id",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/JNYbfdcHaU",
+                "expanded_url": "http:\/\/VIVA.CO.ID",
+                "display_url": "VIVA.CO.ID",
+                "indices": [
+                  26,
+                  49
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4009606,
+        "friends_count": 47,
+        "listed_count": 5712,
+        "created_at": "Fri May 22 02:19:27 +0000 2009",
+        "favourites_count": 85,
+        "utc_offset": 25200,
+        "time_zone": "Jakarta",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 955398,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9E0B0F",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/565058550234243072\/WtJpVpwi.png",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/565058550234243072\/WtJpVpwi.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/966533147482456065\/TQuDLlrf_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/966533147482456065\/TQuDLlrf_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/41730943\/1519274403",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 112,
+      "favorite_count": 175,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in",
+      "spam_occurrence": [
+        
+      ]
+    },
+    {
+      "created_at": "Thu Apr 19 08:02:37 +0000 2018",
+      "id": "986877717902573568",
+      "id_str": "986877717902573568",
+      "text": "Fahri Hamzah Sepakat Gulirkan Angket Perpres Jokowi soal TKA https:\/\/t.co\/IzjWZGQiyy",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/IzjWZGQiyy",
+            "expanded_url": "http:\/\/cnn.id\/291996?s=tw&ca=cms&m=oa",
+            "display_url": "cnn.id\/291996?s=tw&ca\u2026",
+            "indices": [
+              61,
+              84
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "popular"
+      },
+      "source": "detikcommunity<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 17128975,
+        "id_str": "17128975",
+        "name": "CNN Indonesia",
+        "screen_name": "CNNIndonesia",
+        "location": "",
+        "description": "News We Can Trust.\nredaksi@cnnindonesia.com | marcomm@cnnindonesia.com | Download app: https:\/\/t.co\/oE5SdSo1Km & https:\/\/t.co\/RsVHQILD2w",
+        "url": "https:\/\/t.co\/xMWssvqYc9",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/xMWssvqYc9",
+                "expanded_url": "http:\/\/cnnindonesia.com",
+                "display_url": "cnnindonesia.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/oE5SdSo1Km",
+                "expanded_url": "http:\/\/cnn.id\/iphone",
+                "display_url": "cnn.id\/iphone",
+                "indices": [
+                  87,
+                  110
+                ]
+              },
+              {
+                "url": "https:\/\/t.co\/RsVHQILD2w",
+                "expanded_url": "http:\/\/cnn.id\/android",
+                "display_url": "cnn.id\/android",
+                "indices": [
+                  113,
+                  136
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 196664,
+        "friends_count": 63,
+        "listed_count": 703,
+        "created_at": "Mon Nov 03 11:13:25 +0000 2008",
+        "favourites_count": 100,
+        "utc_offset": 25200,
+        "time_zone": "Jakarta",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 236950,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/669793728970682369\/CaHHKPMc_normal.png",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/669793728970682369\/CaHHKPMc_normal.png",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/17128975\/1504687329",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 84,
+      "favorite_count": 139,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in",
+      "spam_occurrence": [
+        
+      ]
+    },
+    {
+      "created_at": "Wed Apr 18 10:23:39 +0000 2018",
+      "id": "986550822157729792",
+      "id_str": "986550822157729792",
+      "text": "Ibarat lari maraton, sudah 3\/4 menuju garis finish, tiba2 banyak yg meragukan Prabowo bisa menang lawan Jokowi di P\u2026 https:\/\/t.co\/MqLyl9e1PQ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/MqLyl9e1PQ",
+            "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/986550822157729792",
+            "display_url": "twitter.com\/i\/web\/status\/9\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "popular"
+      },
+      "source": "Twitter for iPhone<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": "3895489933",
+        "id_str": "3895489933",
+        "name": "Nadirsyah Hosen",
+        "screen_name": "na_dirs",
+        "location": "Clayton, Victoria",
+        "description": "mengeja kata, mengurai makna, merangkum aksara || mengajar di Monash University, Australia || warga NU",
+        "url": "https:\/\/t.co\/P2L7dnU7wt",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/P2L7dnU7wt",
+                "expanded_url": "http:\/\/nadirhosen.net",
+                "display_url": "nadirhosen.net",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 101123,
+        "friends_count": 2365,
+        "listed_count": 177,
+        "created_at": "Wed Oct 14 20:47:28 +0000 2015",
+        "favourites_count": 10533,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 37994,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/973546955195367424\/Zvx61Dwy_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/973546955195367424\/Zvx61Dwy_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/3895489933\/1513662746",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1027,
+      "favorite_count": 1919,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "in",
+      "spam_occurrence": [
+        
+      ]
+    },
+    {
+      "created_at": "Thu Apr 19 11:50:01 +0000 2018",
+      "id": "986934942276796416",
+      "id_str": "986934942276796416",
+      "text": "Survei: Pemilih Jokowi Banyak Berpendidikan SMP Ke Bawah #KlikRMOL #Pilpres2019 https:\/\/t.co\/c6JwvuqqOF",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "KlikRMOL",
+            "indices": [
+              57,
+              66
+            ]
+          },
+          {
+            "text": "Pilpres2019",
+            "indices": [
+              68,
+              80
+            ]
+          }
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/c6JwvuqqOF",
+            "expanded_url": "http:\/\/politik.rmol.co\/read\/2018\/04\/19\/336164\/Survei:-Pemilih-Jokowi-Banyak-Berpendidikan-SMP-Ke-Bawah-",
+            "display_url": "politik.rmol.co\/read\/2018\/04\/1\u2026",
+            "indices": [
+              81,
+              104
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "popular"
+      },
+      "source": "RMOL<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 990237626,
+        "id_str": "990237626",
+        "name": "RMOL.CO",
+        "screen_name": "rmolco",
+        "location": "Indonesia",
+        "description": "Akun resmi Kantor Berita Politik Rakyat Merdeka Online (https:\/\/t.co\/LrRzLR5ueO), didedikasikan untuk Indonesia Raya.",
+        "url": "https:\/\/t.co\/nAUyovotPu",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/nAUyovotPu",
+                "expanded_url": "http:\/\/www.rmol.co",
+                "display_url": "rmol.co",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/LrRzLR5ueO",
+                "expanded_url": "http:\/\/RMOL.CO",
+                "display_url": "RMOL.CO",
+                "indices": [
+                  56,
+                  79
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 29569,
+        "friends_count": 297,
+        "listed_count": 112,
+        "created_at": "Wed Dec 05 05:14:05 +0000 2012",
+        "favourites_count": 150,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 245915,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3031732694\/342a09b0ae21810850ac02425e95c9ce_normal.jpeg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3031732694\/342a09b0ae21810850ac02425e95c9ce_normal.jpeg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/990237626\/1500554057",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 139,
+      "favorite_count": 148,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in",
+      "spam_occurrence": [
+        
+      ]
+    },
+    {
+      "created_at": "Thu Apr 19 08:53:07 +0000 2018",
+      "id": "986890425595121664",
+      "id_str": "986890425595121664",
+      "text": "Survei Cyrus: Elektabilitas Jokowi 64%, Prabowo 29,8% https:\/\/t.co\/iNssqIOY6z",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/iNssqIOY6z",
+            "expanded_url": "http:\/\/bit.ly\/2JZ3tef",
+            "display_url": "bit.ly\/2JZ3tef",
+            "indices": [
+              54,
+              77
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "popular"
+      },
+      "source": "dlvr.it<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": "759692754985242625",
+        "id_str": "759692754985242625",
+        "name": "kumparan",
+        "screen_name": "kumparan",
+        "location": "Jakarta Capital Region",
+        "description": "Bergabung, bertualang, dan bergembiralah bersama kami. Menelusuri berbagai kemungkinan dan alam raya imajinasi. Sampaikan masukan kamu ke info@kumparan.com.",
+        "url": "https:\/\/t.co\/9VBZUI6exx",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/9VBZUI6exx",
+                "expanded_url": "http:\/\/kumparan.com",
+                "display_url": "kumparan.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 53045,
+        "friends_count": 1,
+        "listed_count": 199,
+        "created_at": "Sun Jul 31 10:10:42 +0000 2016",
+        "favourites_count": 2,
+        "utc_offset": 25200,
+        "time_zone": "Jakarta",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 106712,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/818498330586058753\/Kj9vXlHz_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/818498330586058753\/Kj9vXlHz_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/759692754985242625\/1519616883",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 95,
+      "favorite_count": 115,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in",
+      "spam_occurrence": [
+        
+      ]
+    },
+    {
+      "created_at": "Wed Apr 18 13:40:03 +0000 2018",
+      "id": "986600244694560768",
+      "id_str": "986600244694560768",
+      "text": "Jika Geser Jokowi, Sam Aliano Akan Hapus Utang Indonesia dan Gratiskan Umrah #KlikRMOL #jokowi https:\/\/t.co\/8mRW5tAN3z",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "KlikRMOL",
+            "indices": [
+              77,
+              86
+            ]
+          },
+          {
+            "text": "jokowi",
+            "indices": [
+              88,
+              95
+            ]
+          }
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/8mRW5tAN3z",
+            "expanded_url": "http:\/\/politik.rmol.co\/read\/2018\/04\/18\/335995\/Jika-Geser-Jokowi,-Sam-Aliano-Akan-Hapus-Utang-Indonesia-dan-Gratiskan-Umrah-",
+            "display_url": "politik.rmol.co\/read\/2018\/04\/1\u2026",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "popular"
+      },
+      "source": "RMOL<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 990237626,
+        "id_str": "990237626",
+        "name": "RMOL.CO",
+        "screen_name": "rmolco",
+        "location": "Indonesia",
+        "description": "Akun resmi Kantor Berita Politik Rakyat Merdeka Online (https:\/\/t.co\/LrRzLR5ueO), didedikasikan untuk Indonesia Raya.",
+        "url": "https:\/\/t.co\/nAUyovotPu",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/nAUyovotPu",
+                "expanded_url": "http:\/\/www.rmol.co",
+                "display_url": "rmol.co",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/LrRzLR5ueO",
+                "expanded_url": "http:\/\/RMOL.CO",
+                "display_url": "RMOL.CO",
+                "indices": [
+                  56,
+                  79
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 29569,
+        "friends_count": 297,
+        "listed_count": 112,
+        "created_at": "Wed Dec 05 05:14:05 +0000 2012",
+        "favourites_count": 150,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 245915,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3031732694\/342a09b0ae21810850ac02425e95c9ce_normal.jpeg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3031732694\/342a09b0ae21810850ac02425e95c9ce_normal.jpeg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/990237626\/1500554057",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 79,
+      "favorite_count": 192,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in",
+      "spam_occurrence": [
+        [
+          89,
+          95
+        ]
+      ]
+    },
+    {
+      "created_at": "Thu Apr 19 02:35:17 +0000 2018",
+      "id": "986795341671362560",
+      "id_str": "986795341671362560",
+      "text": "Bung! JIka melihat dari Pilpres 2014 Pak @prabowo mempunyai program kerja yang jelas dan terukur. Seharusnya saudar\u2026 https:\/\/t.co\/sNEkeacSIo",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "prabowo",
+            "name": "Prabowo Subianto",
+            "id": 40580714,
+            "id_str": "40580714",
+            "indices": [
+              41,
+              49
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/sNEkeacSIo",
+            "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/986795341671362560",
+            "display_url": "twitter.com\/i\/web\/status\/9\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "popular"
+      },
+      "source": "TweetDeck<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 397673651,
+        "id_str": "397673651",
+        "name": "Partai Gerindra",
+        "screen_name": "Gerindra",
+        "location": "Indonesia Raya ",
+        "description": "Kalau Bukan Kita, Siapa Lagi? Kalau Bukan Sekarang, Kapan Lagi? Ikuti Terus Perjuangan Partai Gerakan Indonesia Raya Dalam Membangun Indonesia Yang Berdikari.",
+        "url": "http:\/\/t.co\/jxGLlE4AlD",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http:\/\/t.co\/jxGLlE4AlD",
+                "expanded_url": "http:\/\/www.PartaiGerindra.or.id",
+                "display_url": "PartaiGerindra.or.id",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 332808,
+        "friends_count": 4074,
+        "listed_count": 417,
+        "created_at": "Tue Oct 25 00:51:55 +0000 2011",
+        "favourites_count": 710,
+        "utc_offset": 25200,
+        "time_zone": "Jakarta",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 78233,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "981421",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/353041718\/Thank-You-Page.jpg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/353041718\/Thank-You-Page.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3195156458\/2db2524b01bb2a019d3ac621e063ff94_normal.jpeg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3195156458\/2db2524b01bb2a019d3ac621e063ff94_normal.jpeg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/397673651\/1440589955",
+        "profile_link_color": "981421",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "FABC20",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": "986690070362013696",
+      "quoted_status_id_str": "986690070362013696",
+      "quoted_status": {
+        "created_at": "Wed Apr 18 19:36:59 +0000 2018",
+        "id": "986690070362013696",
+        "id_str": "986690070362013696",
+        "text": "Pilpres 2019 bagi @prabowo sekadar \"Panggung Lelucon\" baginya karena @Gerindra tak punya program kerja usung\u2026 https:\/\/t.co\/JWbKmNCRt9",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            
+          ],
+          "symbols": [
+            
+          ],
+          "user_mentions": [
+            {
+              "screen_name": "prabowo",
+              "name": "Prabowo Subianto",
+              "id": 40580714,
+              "id_str": "40580714",
+              "indices": [
+                18,
+                26
+              ]
+            },
+            {
+              "screen_name": "Gerindra",
+              "name": "Partai Gerindra",
+              "id": 397673651,
+              "id_str": "397673651",
+              "indices": [
+                69,
+                78
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/JWbKmNCRt9",
+              "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/986690070362013696",
+              "display_url": "twitter.com\/i\/web\/status\/9\u2026",
+              "indices": [
+                110,
+                133
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "in",
+          "result_type": "popular"
+        },
+        "source": "Twitter for Android<\/a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 215058741,
+          "id_str": "215058741",
+          "name": "Prof. Yusuf L. Henuk",
+          "screen_name": "ProfYLH",
+          "location": "Medan Maimun, Indonesia",
+          "description": "Professor at Faculty of Agriculture, University of Sumatera Utara (USU), Medan, North Sumatera, INDONESIA",
+          "url": "https:\/\/t.co\/yeIMz4JS0R",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/yeIMz4JS0R",
+                  "expanded_url": "https:\/\/profylh.twitter.com",
+                  "display_url": "profylh.twitter.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 3768,
+          "friends_count": 2821,
+          "listed_count": 4,
+          "created_at": "Fri Nov 12 22:13:22 +0000 2010",
+          "favourites_count": 54,
+          "utc_offset": -36000,
+          "time_zone": "Hawaii",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 14336,
+          "lang": "id",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/922912852691709953\/aC-gUfrM_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/922912852691709953\/aC-gUfrM_normal.jpg",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "62085bb964749eb8",
+          "url": "https:\/\/api.twitter.com\/1.1\/geo\/id\/62085bb964749eb8.json",
+          "place_type": "city",
+          "name": "Medan Johor",
+          "full_name": "Medan Johor, Indonesia",
+          "country_code": "ID",
+          "country": "Indonesia",
+          "contained_within": [
+            
+          ],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  98.636589,
+                  3.515784
+                ],
+                [
+                  98.6757491,
+                  3.515784
+                ],
+                [
+                  98.6757491,
+                  3.5616775
+                ],
+                [
+                  98.636589,
+                  3.5616775
+                ]
+              ]
+            ]
+          },
+          "attributes": [
+            
+          ]
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 32,
+        "favorite_count": 44,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "in"
+      },
+      "retweet_count": 126,
+      "favorite_count": 254,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in",
+      "spam_occurrence": [
+        
+      ]
+    },
+    {
+      "created_at": "Thu Apr 19 12:07:35 +0000 2018",
+      "id": "986939365203968000",
+      "id_str": "986939365203968000",
+      "text": "Survei Cyrus: Elektabilitas Jokowi 58,5%, Prabowo 21,8%, Gatot 2% https:\/\/t.co\/RxNVcuO3Mt https:\/\/t.co\/jnz5MQwcEv",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/RxNVcuO3Mt",
+            "expanded_url": "http:\/\/detik.id\/VzXzwG",
+            "display_url": "detik.id\/VzXzwG",
+            "indices": [
+              66,
+              89
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": "986939363664642048",
+            "id_str": "986939363664642048",
+            "indices": [
+              90,
+              113
+            ],
+            "media_url": "http:\/\/pbs.twimg.com\/media\/DbJQH0oUwAAse56.jpg",
+            "media_url_https": "https:\/\/pbs.twimg.com\/media\/DbJQH0oUwAAse56.jpg",
+            "url": "https:\/\/t.co\/jnz5MQwcEv",
+            "display_url": "pic.twitter.com\/jnz5MQwcEv",
+            "expanded_url": "https:\/\/twitter.com\/detikcom\/status\/986939365203968000\/photo\/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 917,
+                "h": 515,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 382,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 917,
+                "h": 515,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": "986939363664642048",
+            "id_str": "986939363664642048",
+            "indices": [
+              90,
+              113
+            ],
+            "media_url": "http:\/\/pbs.twimg.com\/media\/DbJQH0oUwAAse56.jpg",
+            "media_url_https": "https:\/\/pbs.twimg.com\/media\/DbJQH0oUwAAse56.jpg",
+            "url": "https:\/\/t.co\/jnz5MQwcEv",
+            "display_url": "pic.twitter.com\/jnz5MQwcEv",
+            "expanded_url": "https:\/\/twitter.com\/detikcom\/status\/986939365203968000\/photo\/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 917,
+                "h": 515,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 382,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 917,
+                "h": 515,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "popular"
+      },
+      "source": "detikcommunity<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 69183155,
+        "id_str": "69183155",
+        "name": "detikcom",
+        "screen_name": "detikcom",
+        "location": "Jakarta, Indonesia",
+        "description": "Official Twitter of https:\/\/t.co\/oOBkZ1EQMA. redaksi@detik.com | promosi@detik.com | Android: https:\/\/t.co\/uBAYnisH9r iPhone: https:\/\/t.co\/36uDqdyxKN",
+        "url": "https:\/\/t.co\/oOBkZ1EQMA",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/oOBkZ1EQMA",
+                "expanded_url": "http:\/\/www.detik.com",
+                "display_url": "detik.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/oOBkZ1EQMA",
+                "expanded_url": "http:\/\/www.detik.com",
+                "display_url": "detik.com",
+                "indices": [
+                  20,
+                  43
+                ]
+              },
+              {
+                "url": "https:\/\/t.co\/uBAYnisH9r",
+                "expanded_url": "http:\/\/detik.com\/android",
+                "display_url": "detik.com\/android",
+                "indices": [
+                  94,
+                  117
+                ]
+              },
+              {
+                "url": "https:\/\/t.co\/36uDqdyxKN",
+                "expanded_url": "http:\/\/detik.com\/iphone",
+                "display_url": "detik.com\/iphone",
+                "indices": [
+                  126,
+                  149
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 14909403,
+        "friends_count": 38,
+        "listed_count": 13292,
+        "created_at": "Thu Aug 27 03:03:05 +0000 2009",
+        "favourites_count": 33,
+        "utc_offset": 25200,
+        "time_zone": "Jakarta",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 1297906,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/636030260\/mjmpvqcybkjev10lox2v.jpeg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/636030260\/mjmpvqcybkjev10lox2v.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/767570972496900096\/dvy8AZKH_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/767570972496900096\/dvy8AZKH_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/69183155\/1514881092",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 82,
+      "favorite_count": 207,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in",
+      "spam_occurrence": [
+        
+      ]
+    },
+    {
+      "created_at": "Thu Apr 19 05:09:00 +0000 2018",
+      "id": "986834022100643840",
+      "id_str": "986834022100643840",
+      "text": "Presiden @jokowi: \"Saya lahir 1961, PKI dibubarkan 1965, umur saya 4tahun, masa ada Aktivis PKI Balita\" \ud83e\udd23\ud83d\ude02\u2026 https:\/\/t.co\/yPqLZEovLY",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "jokowi",
+            "name": "Joko Widodo",
+            "id": 366987179,
+            "id_str": "366987179",
+            "indices": [
+              9,
+              16
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/yPqLZEovLY",
+            "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/986834022100643840",
+            "display_url": "twitter.com\/i\/web\/status\/9\u2026",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "popular"
+      },
+      "source": "Twitter for Android<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 235931838,
+        "id_str": "235931838",
+        "name": "Dede Budhyarto",
+        "screen_name": "kangdede78",
+        "location": "Jakarta Pusat, DKI Jakarta",
+        "description": "Kebenaran akan menemukan jalannya Sendiri.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 53600,
+        "friends_count": 1461,
+        "listed_count": 84,
+        "created_at": "Sun Jan 09 12:08:41 +0000 2011",
+        "favourites_count": 335,
+        "utc_offset": 25200,
+        "time_zone": "Jakarta",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 213110,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "DD2E44",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/695429040329486338\/KIqLgHiE.jpg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/695429040329486338\/KIqLgHiE.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/984595194879209473\/c1RaPd_j_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/984595194879209473\/c1RaPd_j_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/235931838\/1500180237",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 95,
+      "favorite_count": 131,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in",
+      "spam_occurrence": [
+        [
+          10,
+          16
+        ]
+      ]
+    },
+    {
+      "created_at": "Thu Apr 19 14:19:05 +0000 2018",
+      "id": "986972455771168768",
+      "id_str": "986972455771168768",
+      "text": "PKS Yakin Prabowo Mampu Imbangi Elektabilitas Jokowi https:\/\/t.co\/vlJmKDR5zV",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/vlJmKDR5zV",
+            "expanded_url": "http:\/\/republika.co.id\/share\/p7fpec428",
+            "display_url": "republika.co.id\/share\/p7fpec428",
+            "indices": [
+              53,
+              76
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "popular"
+      },
+      "source": "Twitter for Android<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 122020937,
+        "id_str": "122020937",
+        "name": "Mardani Ali Sera",
+        "screen_name": "MardaniAliSera",
+        "location": "Jakarta to the World",
+        "description": "PKS Member of Parliament | PKS Head of Youth | UMB Lecturer | The best people are those who are the most beneficial to others. #IndonesiaBerkah",
+        "url": "https:\/\/t.co\/Jn2ScDPzgo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/Jn2ScDPzgo",
+                "expanded_url": "http:\/\/www.mardani.info",
+                "display_url": "mardani.info",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 75947,
+        "friends_count": 434,
+        "listed_count": 86,
+        "created_at": "Thu Mar 11 10:01:49 +0000 2010",
+        "favourites_count": 656,
+        "utc_offset": 25200,
+        "time_zone": "Hanoi",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 6796,
+        "lang": "id",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/909274007769247744\/86y8AfLu_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/909274007769247744\/86y8AfLu_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/122020937\/1523462737",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 118,
+      "favorite_count": 392,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in",
+      "spam_occurrence": [
+        
+      ]
+    },
+    {
+      "created_at": "Thu Apr 19 01:05:10 +0000 2018",
+      "id": "986772661605810181",
+      "id_str": "986772661605810181",
+      "text": "Twit2 menarik dr @saiful_mujani ttng penggunaan hoax perbandingan Pilpres Indonesia 2014 & Pilpres AS 2016, bgmn ho\u2026 https:\/\/t.co\/bM7kYaqbQA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "saiful_mujani",
+            "name": "saiful mujani",
+            "id": 1515689815,
+            "id_str": "1515689815",
+            "indices": [
+              17,
+              31
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/bM7kYaqbQA",
+            "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/986772661605810181",
+            "display_url": "twitter.com\/i\/web\/status\/9\u2026",
+            "indices": [
+              121,
+              144
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "popular"
+      },
+      "source": "Twitter for Android<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 45602536,
+        "id_str": "45602536",
+        "name": "Mohamad Guntur Romli",
+        "screen_name": "GunRomli",
+        "location": "Jakarta",
+        "description": "Caleg Partai Solidaritas Indonesia (PSI) tahun 2019 #YangWarasJanganMengalah #Antikorupsi #AntiIntoleransi",
+        "url": "https:\/\/t.co\/J5vst2jbIz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/J5vst2jbIz",
+                "expanded_url": "http:\/\/www.gunromli.com\/Profil\/",
+                "display_url": "gunromli.com\/Profil\/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 152721,
+        "friends_count": 1921,
+        "listed_count": 442,
+        "created_at": "Mon Jun 08 16:22:58 +0000 2009",
+        "favourites_count": 3254,
+        "utc_offset": 7200,
+        "time_zone": "Cairo",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 97302,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/413598859\/sc.jpg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/413598859\/sc.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/986460186750599168\/NuxzVOXo_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/986460186750599168\/NuxzVOXo_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/45602536\/1503696972",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 57,
+      "favorite_count": 105,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "in",
+      "spam_occurrence": [
+        
+      ]
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.028,
+    "max_id": 0,
+    "max_id_str": "0",
+    "next_results": "?max_id=986550822157729791&q=jokowi&lang=id&include_entities=1&result_type=popular",
+    "query": "jokowi",
+    "count": 15,
+    "since_id": 0,
+    "since_id_str": "0"
+  },
+  "spam_keywords": [
+    "jokowi"
+  ],
+  "algoritma": "KMP",
+  "max_id": "986550822157729791",
+  "include_entities": "1",
+  "result_type": "popular",
+  "q": "jokowi"
+}
+
