@@ -39,7 +39,8 @@
             ]);
     } else{
         //Next Request
-        $maxid = $_GET['maxid'];
+        echo 'next<br>';
+        $maxid = $_GET['max_id'];
         $include_entities = $_GET['include_entities'];
         $content = $connection->get("search/tweets",[
             "q"=>$keyword,
@@ -51,11 +52,12 @@
     }
 
     //print_r($content);
-    //$content['spam_keywords'] = $spam_keywords;
     $array = json_decode(json_encode($content), true);
     $array['spam_keywords'] = $spam_keywords;
     $array['algoritma'] = $algoritma;
     
+
+    //Fase Request ke python flask
     $client = new Client([
         'headers' => [ 'Content-Type' => 'application/json' ]
     ]);
@@ -64,8 +66,23 @@
         ['body' => json_encode($array)]
     );
 
+    $arrayHasilAlgoritma = json_decode($response->getBody()->getContents(),true);
+    if (array_key_exists("next_results",$arrayHasilAlgoritma['search_metadata'])){
+        $urlNext = $arrayHasilAlgoritma['search_metadata']['next_results'];
+        $query_str = parse_url($urlNext, PHP_URL_QUERY);
+        parse_str($query_str, $query_params);
+        $arrayHasilAlgoritma['max_id'] = $query_params['max_id'];
+        $arrayHasilAlgoritma['include_entities'] = $query_params['include_entities'];
+        $arrayHasilAlgoritma['result_type'] = $query_params['result_type'];
+        $arrayHasilAlgoritma['q'] = $keyword;
+    }
 
-    echo var_export($response->getBody()->getContents(), true);
+
+
+
+    
+    echo json_encode($arrayHasilAlgoritma);
+
 
     //echo json_encode($content);
     // $connection = new TwitterOAuth(CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN, ACCESS_TOKEN_SECRET);
@@ -82,7 +99,5 @@
     // $query_str = parse_url($url, PHP_URL_QUERY);
     // parse_str($query_str, $query_params);
     // // print_r($query_params);
-
-
 
 ?>

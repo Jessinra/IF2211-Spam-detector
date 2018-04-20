@@ -185,13 +185,13 @@ def check_text(text, query, method):
     :rtype: list
     """
 
-    if "kmp" in method:
+    if "KMP" in method:
         return string_match_kmp(text, query)
 
-    elif "bm" in method:
+    elif "BoyerMoore" in method:
         return string_match_bm(text, query)
 
-    elif "re" in method:
+    elif "Regex" in method:
         return string_match_regex(text, query)
 
 
