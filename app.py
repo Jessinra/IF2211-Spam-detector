@@ -4,6 +4,7 @@ app = Flask(__name__)
 
 @app.route('/compute',methods=['POST'])
 def compute():
+
     data = request.data
     dataDict = json.loads(data)
     print(dataDict['search_metadata']['query'])
@@ -12,7 +13,7 @@ def compute():
     spam_keywords = dataDict['spam_keywords']
     methodAlgorithm = dataDict['algoritma']
 
-    hasilAlgoritma = check_is_spam(statuses,spam_keywords,methodAlgorithm)
+    hasilAlgoritma = check_is_spam(statuses, spam_keywords, methodAlgorithm)
     dataDict['statuses'] = hasilAlgoritma
     print(dataDict['search_metadata']['query'])
 
