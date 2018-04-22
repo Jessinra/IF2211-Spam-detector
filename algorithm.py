@@ -99,7 +99,7 @@ def string_match_bm(text, query):
         :rtype:
         """
 
-        last_occurence = [-1 for _ in range(0, 128)]
+        last_occurence = [-1 for _ in range(0, 256)]
 
         for i in range(0, len(query)):
             last_occurence[ord(query[i])] = i
@@ -144,7 +144,11 @@ def string_match_bm(text, query):
         else:
 
             # set text to correct checkpoint
-            jump_offset = support_table[ord(text[i])]
+            # jump_offset = support_table[ord(text[i])]
+            try:
+                jump_offset = support_table[ord(text[i])]
+            except:
+                jump_offset = 9999
             i += len_query - min(j, 1 + jump_offset)
 
             # restart checking at the last letter of query

@@ -17,7 +17,7 @@ def compute():
 
     
     hasilString = json.dumps(dataDict)
-    print(hasilString)
+    # print(hasilString)
     return hasilString
 
 if __name__ == '__main__':
