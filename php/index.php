@@ -42,9 +42,9 @@
                                     <div class="form-group">
                                         <label for="result_type">Select tweet type : </label>
                                         <select class="form-control" id="result_type" name="result_type">
-                                            <option>Popular</option>
-                                            <option>Recent</option>
-                                            <option>Mixed</option>
+                                            <option>popular</option>
+                                            <option>recent</option>
+                                            <option>mixed</option>
                                         </select>
                                     </div> 
 
@@ -183,6 +183,20 @@
                                         <div class="line"></div>';
                                 echo $tweet;
                             } else {
+                                $pembuka = '<kbd>';
+                                $penutup = '</kbd>';
+                                $textBaru = '';
+                                $indexAwal = 0;
+                                //Pemrosesan text baru highliting
+                                for($i=0;$i<count($stats['spam_occurrence']);$i++){
+                                    $textBaru = $textBaru.substr($text,$indexAwal,$stats['spam_occurrence'][$i][0]-1-$indexAwal+1);
+                                    $textBaru = $textBaru.$pembuka.substr($text,$stats['spam_occurrence'][$i][0],$stats['spam_occurrence'][$i][1]-$stats['spam_occurrence'][$i][0]).$penutup;
+                                    $indexAwal = $stats['spam_occurrence'][$i][1];
+                                }
+
+                                if($indexAwal<strlen($text)){
+                                    $textBaru = $textBaru.substr($text,$indexAwal,strlen($text)-1-$indexAwal+1);
+                                }
                                 $tweet = '
                                         <div class="message-avatar">
                                             <img src="'. $img .'" alt="">
@@ -192,7 +206,7 @@
                                                 <h5>@'. $name .'<span class="important">Spam</span></h5>
                                                 <span>'. $time .'</span>
                                             </div>
-                                            <p>'. $text .'</p>
+                                            <p>'. $textBaru .'</p>
                                         </div>
                                     <div class="line"></div>';
                                 echo $tweet; 
