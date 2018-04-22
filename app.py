@@ -15,7 +15,9 @@ def compute():
     hasilAlgoritma = check_is_spam(statuses, spam_keywords, methodAlgorithm)
     dataDict['statuses'] = hasilAlgoritma
 
+    
     hasilString = json.dumps(dataDict)
+    print(hasilString)
     return hasilString
 
 if __name__ == '__main__':

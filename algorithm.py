@@ -232,6 +232,8 @@ def check_is_spam(statuses, spam_keywords, method):
 
         for query in spam_keywords:
 
+            text = text.lower()
+            query = query.lower()
             spam_occurrence = check_text(text, query, method)
             if len(spam_occurrence) > 0:
                 status['spam_occurrence'] += spam_occurrence
