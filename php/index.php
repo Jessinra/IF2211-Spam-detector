@@ -157,8 +157,9 @@
                             $arrayHasilAlgoritma['result_type'] = $query_params['result_type'];
                             $arrayHasilAlgoritma['q'] = $keyword;
 
-                            drawTweets($arrayHasilAlgoritma);
+                            
                         }
+                        drawTweets($arrayHasilAlgoritma);
 
                     }
 
@@ -212,6 +213,13 @@
                                 echo $tweet; 
                             }
                         }  
+                        $tweet='';
+                        if(array_key_exists("next_results",$arrays['search_metadata'])){
+                            $tweet = $tweet.'<a href="'.'index.php?first=false&keyword='.$_GET['keyword'].'&max_id='.$arrays['max_id'].'&include_entities='.$arrays['include_entities'].'&spam='.$_GET['spam'].'&result_type='. $_GET['result_type'].'&algo='. $_GET['algo'].
+                            '" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Next Result</a>';
+                        }
+
+                        echo $tweet;
                     }
                 ?>
             </div>
